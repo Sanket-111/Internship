@@ -1,2 +1,2 @@
-# Internsip
+# Internship
 intership content
